@@ -3,6 +3,7 @@ Simple blog on PHP Native
 
 
 (Main page)
+
 ![image](https://github.com/CherlenokYevgeniy/Blog/raw/master/img/1.png)
 
 
