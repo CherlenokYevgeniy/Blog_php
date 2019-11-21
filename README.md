@@ -2,7 +2,7 @@
 
 <hr>
 
-Simple blog on PHP Native
+Simple blog on PHP Native with admin panel
 
 **1)Main page**
 <p align="center">
