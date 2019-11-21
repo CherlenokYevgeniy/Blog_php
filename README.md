@@ -1,8 +1,8 @@
 # Blog
 
-<hr>
-
 Simple blog on PHP Native with admin panel
+
+<hr>
 
 **1)Main page**
 <p align="center">
